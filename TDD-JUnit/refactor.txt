@@ -1,0 +1,21 @@
+Refactor after STEP 9:
+    In MyStack.java:
+        Function 3: push function - "There was only a simple statement to store the parameter in the first index of the
+                    array. Then I added more rules and algorithms to store the parameter in the array by using the
+                    for-loop function."
+        Function 4: pop function - "It was only return the first data in the array and empty the array. Then I added
+                    for-loop function to move every data up an index after popped a number."
+
+Refactor after STEP 10:
+    In MyStack.java:
+        Function 4: pop function - "I added an if statement to throw the EmptyStackException if the array is empty."
+
+Refactor after STEP 14:
+    In MyStack.java:
+        Function 5: top function - "It was only return the first data in the array. Then I added another if statement to
+                    throw an EmptyStackException if the array is empty by checking the value of item_store."
+
+Refactor after STEP 15:
+    In MyStack.java:
+        Function 3: push function - "I added another if statement to throw the ArrayIndexOutOfBoundsException if the
+                    stack is full"

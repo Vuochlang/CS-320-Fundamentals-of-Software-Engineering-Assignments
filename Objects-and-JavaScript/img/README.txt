@@ -1,0 +1,1 @@
+This is from the assignment, I do not own the image in this folder.
